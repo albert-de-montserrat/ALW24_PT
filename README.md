@@ -6,7 +6,7 @@
 - Brief **intro to Julia**
   - Installation and running interactive sessions with VSCode
   - Basic Julia programming:
-        - Arrays, functions,...
+    - Arrays, functions,...
 - **Hands-on** - solving forward problems with the Pseudo-Transient method
   - Linear and non-linear diffusion problem
   - From a explicit solver to the (accelerated) Pseudo-Transient method
